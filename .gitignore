@@ -38,4 +38,8 @@ out/
 
 ### properties ###
 application.properties
+<<<<<<< HEAD
 *.yml
+=======
+*.yml
+>>>>>>> b86a6c96ef5664634b77b1b34a0bcaa1f15fabe7
